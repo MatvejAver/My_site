@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Lorenzo_sansB';
+    src: url(Lorenzo\ Sans\ Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Lorenzo_sansM';
+    src: url(Lorenzo\ Sans\ Medium.ttf);
+}
+
+body{
+    background-color: black;
+}
+
+.description{
+    font-family: 'Lorenzo_sansB';
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: rgb(76, 85, 255);
+    background-color: rgb(255, 255, 255);
+    max-width: 1500px;
+    max-height: 1500px;
+    width: 100%;
+    height: 100%;
+}
+
+.problem_p{
+    font-family: 'Lorenzo_sansM';
+    font-size: 25px;
+    color: white;
+}
+
+.dependence{
+    color: rgb(0, 8, 255);
+}
+
+.description_p{
+    padding-left: 40px;
+    color: rgb(64, 107, 249);
+}
+
+.start{
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: rgb(41, 112, 255);
+    background-color: rgb(41, 112, 255);
+}
+
+.text_start{
+    padding-left: 40px;
+}
+
+.technologies{
+    font-family: 'Lorenzo_sansB';
+    color: white;
+}
+
+.padding_desp{
+    padding-top: 100px;
+}
+
+.dependencies{
+    padding-left: 40px;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: rgb(103, 207, 255);
+    background-color: rgb(103, 207, 255);
+}
+
+.common{
+    color: rgb(186, 255, 126);
+    font-family: 'Lorenzo_sansB';
+}
+
+.dependencies_ul{
+    color: rgb(255, 255, 255);
+    font-family: 'Lorenzo_sansM';
+}
+
+.name_despendencies{
+    color: rgb(149, 99, 255);
+    font-family: 'Lorenzo_sansB';
+}
+
+.conclusions_2{
+    padding-left: 40px;
+    font-family: 'Lorenzo_sansB';
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: rgb(171, 0, 223);
+    background-color: rgb(171, 0, 223);
+}
+
+.conclusions_1{
+    padding-left: 40px;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: rgb(255, 193, 5);
+    background-color: rgb(255, 193, 5);
+}
+
+.fighting_h{
+    color: rgb(224, 138, 0);
+    font-family: 'Lorenzo_sansB';
+}
+
+.decisions{
+    color: rgb(255, 255, 255);
+    font-family: 'Lorenzo_sansM';
+}
